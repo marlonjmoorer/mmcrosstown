@@ -127,7 +127,7 @@
     			
     					<h3 class="margin-bottom-40 editContent">Get a FREE Quote</h3>
     				
-    					<form role="form">
+                                        <form role="form" action="send_mail.php">
     				
     						<div class="form-group">
     				    		<input type="text" class="form-control input-lg" id="name" name="name" placeholder="Your name *">
